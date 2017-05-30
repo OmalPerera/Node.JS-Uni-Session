@@ -2,14 +2,14 @@
 
 A comprehensive guide to help you learn Node.Js with basic JavaScript &amp; strong basic architectural knowledge.
 
-***
+
 
 # Installing
 * [Linux](#installing-on-linux)
 * [Mac](#installing-on-mac)
 * [Windows](#installing-on-windows)
 
-***
+
 
 ## Session Lineup
 1. Basic Concepts
@@ -21,7 +21,7 @@ A comprehensive guide to help you learn Node.Js with basic JavaScript &amp; stro
 7. Express
 8. Understanding app.js
 
-***
+
 
 ## Installing on Linux
 You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) available in a **.tar.gz**.
@@ -33,4 +33,3 @@ You can install a pre-built version of node.js via [the downloads page](http://n
 ## Installing on Windows
 You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) using a **.exe** or a **.msi**.
 
-***
