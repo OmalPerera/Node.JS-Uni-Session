@@ -21,3 +21,16 @@
     </ol>
   </body>
 </html>
+
+***
+
+
+# Installing
+* [Linux](#installing-on-linux)
+* [Mac](#installing-on-mac)
+* [Windows](#installing-on-windows)
+* [SunOS](#installing-on-sunos)
+* [Linaro Ubuntu](#installing-on-linaro-ubuntu-arm-udoo)
+* [Via package manager](#installing-via-package-manager)
+
+***
