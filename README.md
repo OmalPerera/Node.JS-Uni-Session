@@ -1,14 +1,20 @@
-# Node.JS Uni Session
+<p align="center">
+  <img alt="Node JS by Omal Perera" src="https://nodejs.org/static/images/logo-light.svg" width="300"/>
+</p>
 
+# Node.JS Uni Session
 A comprehensive guide to help you learn Node.Js with basic JavaScript &amp; strong basic architectural knowledge.
 
-
-
-# Installing
+# Installing Node.Js
 * [Linux](#installing-on-linux)
 * [Mac](#installing-on-mac)
 * [Windows](#installing-on-windows)
 
+
+# Installing Visual Studio Code
+* [Linux](#installing-on-linux)
+* [Mac](#installing-on-mac)
+* [Windows](#installing-on-windows)
 
 
 ## Session Lineup
