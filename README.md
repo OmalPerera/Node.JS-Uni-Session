@@ -47,14 +47,14 @@ You can install a pre-built version of node.js via [the downloads page](http://n
 
 ## Installing VS Code on Linux
 Please visit this page[Visual Studio code for linux](https://code.visualstudio.com/docs/setup/linux)
-visit [here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) to gain basic idea to code Node js in VS Code.
+<br>visit [here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) to gain basic idea to code Node js in VS Code.
 
 ## Installing VS Code on Mac
 Please visit this page[Visual Studio code for Mac](https://code.visualstudio.com/docs/setup/mac)
-visit [here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) to gain basic idea to code Node js in VS Code.
+<br>visit [here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) to gain basic idea to code Node js in VS Code.
 
 ## Installing VS Code on Windows
 Please visit this page[Visual Studio code for Windows](https://code.visualstudio.com/docs/setup/windows)
-visit [here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) to gain basic idea to code Node js in VS Code.
+<br>visit [here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) to gain basic idea to code Node js in VS Code.
 
 <hr>
