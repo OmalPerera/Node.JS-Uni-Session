@@ -5,6 +5,8 @@
 # Node.JS Uni Session
 A comprehensive guide to help you learn Node.Js with basic JavaScript &amp; strong basic architectural knowledge.
 
+# Prerequisite for the session
+
 # Installing Node.Js
 * [Linux](#installing-on-linux)
 * [Mac](#installing-on-mac)
@@ -16,16 +18,7 @@ A comprehensive guide to help you learn Node.Js with basic JavaScript &amp; stro
 * [Mac](#installing-vs-code-on-mac)
 * [Windows](#installing-vs-code-on-windows)
 
-
-## Session Lineup
-1. Basic Concepts
-2. Handling Multiple Requests
-3. Understanding References to Objects
-4. Prototype
-5. Modules
-6. Creating a Basic Server
-7. Express
-8. Understanding app.js
+<br><br><br>
 
 # Installing Node.Js
 
@@ -58,3 +51,17 @@ Please visit this page[Visual Studio code for Windows](https://code.visualstudio
 <br>visit [here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) to gain basic idea to code Node js in VS Code.
 
 <hr>
+
+<br><br><br>
+
+
+# Session Lineup
+
+1. Basic Concepts
+2. Handling Multiple Requests
+3. Understanding References to Objects
+4. Prototype
+5. Modules
+6. Creating a Basic Server
+7. Express
+8. Understanding app.js
