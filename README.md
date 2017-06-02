@@ -58,7 +58,7 @@ Please visit this page[Visual Studio code for Windows](https://code.visualstudio
 # Session Lineup
 
 1. Basic Concepts
-2. Handling Multiple Requests
+2. Non-blocking or Asynchronous I/O Handling
 3. Understanding References to Objects
 4. Prototype
 5. Modules
